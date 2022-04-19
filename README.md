@@ -1,12 +1,10 @@
-# Chapter II - Desafio 01 - Hook carrinho de compra
+# Chapter II - Desafio 01 - Refactoring de classes e TypeScript
 
 Projeto desenvolvido no capítulo II da Trilha ReactJs do curso Ignite da [Rockeseat](https://www.rocketseat.com.br/ignite).
 
 ### Conhecimentos aprendidos/reforçados
-- Context API
-- UseRef
-- Axios, Toastify, localStorage Api
-- map
+- UseState, UseEffect
+- Typescript
 
 ## :computer: Tecnologias e Ferramentas usadas
 
@@ -19,6 +17,7 @@ Projeto desenvolvido no capítulo II da Trilha ReactJs do curso Ignite da [Rocke
 ## Como executar
 
     yarn install    // instala dependências
+    yarn server     // inicia servidor
     yarn start      // inicia aplicação
 
 ## :lock: Licença
